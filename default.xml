@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com"/MichaelMcGetrick>
+  
+  <default remote="origin" sync-j="4" revision="master"/>
+  
+  <project name="meta-stm32mp1-custom" path="meta-stm32mp1-custom" remote="origin"/>
+  
+</manifest>
